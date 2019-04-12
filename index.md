@@ -2,18 +2,17 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Lucas Wong
+Huster, learner.
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://www.hust.edu.cn">HUST</a>
+| <a href="https://f0rtythieves.github.io">My github page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+learning in the HUST
 
 ### Specialized in
 
@@ -22,8 +21,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+machine learning，VR，cooking，playing computergames
 
 ## Education
 
